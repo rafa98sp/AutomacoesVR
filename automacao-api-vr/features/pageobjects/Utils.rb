@@ -1,0 +1,1 @@
+#nessa classe podemos criar metodos que serão utilizados como consultas em banco, etc
