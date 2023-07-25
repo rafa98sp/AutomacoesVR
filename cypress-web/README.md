@@ -1,4 +1,4 @@
-#automação web utilizando cypress
+# Automação web utilizando cypress
 
 utilizar o seguinte comando para execução pelo terminal 'npx cypress run'
 
